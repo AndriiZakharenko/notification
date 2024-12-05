@@ -8,4 +8,4 @@ It's an expected result of your job:
 
 ## Demo Links
 
-- [DEMO LINK](https://AndriiZakharenko.github.io/test/)
+- [DEMO LINK](https://AndriiZakharenko.github.io/js_notification_DOM/)
